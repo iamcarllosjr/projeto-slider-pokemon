@@ -2,7 +2,7 @@
 
 Projeto criado no evento MapaDev Week, exercitando as tecnologias HTML, CSS e JavaScript, a intenção foi de, criar um slider, mostrando alguns pokémons e suas caracteristicas !
 
-[<img src="./slider.gif" alt="slider">]
+<img src="./slider.gif" alt="slider">
 
 ## Tecnologias utilizadas
 - HTML
